@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d29d6495-fbb9-4e70-94a5-eacbc679ef66" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
-    </list>
+    <list default="true" id="d29d6495-fbb9-4e70-94a5-eacbc679ef66" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1722442508177</updated>
       <workItem from="1722442509210" duration="799000" />
-      <workItem from="1722443340592" duration="13000" />
+      <workItem from="1722443340592" duration="729000" />
     </task>
     <servers />
   </component>
