@@ -1,9 +1,8 @@
 ---
 title: Markdown Syntax Guide
-date: 2023-06-20T00:00:00Z
-description: >-
-  Sample article showcasing basic Markdown syntax and formatting for HTML
-  elements.
+date: 2023-06-20T00:00:00.000Z
+description: Sample article showcasing basic Markdown syntax and formatting for
+  HTML elements.
 tags:
   - markdown
   - css
@@ -13,7 +12,7 @@ categories:
   - themes
   - syntax
 ---
-THIS IS TEST EDITING OF FILE content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme. <!--more-->
+THIS TEXT EDIT BY NETLIFY DECAP content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme. <!--more-->
 
 ## Headings
 
@@ -51,7 +50,7 @@ The blockquote element represents content that is quoted from another source, op
 >
 > &nbsp;
 
-\[^1\]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
+[^1]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
 
 ## Tables
 
@@ -63,7 +62,7 @@ Tables aren't part of the core Markdown spec, but Hugo supports supports them ou
 Bob | 27
 ```
 
-Alice \| 23
+Alice | 23
 
 ### Inline Markdown within tables
 
@@ -114,7 +113,9 @@ def make[F[_]: Sync: Parallel: ThrowableMonadError](cfg: ServiceConfig, client: 
 ### Code block with Hugo's internal highlight shortcode
 
 {{< highlight html >}}
+
 <!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -128,7 +129,7 @@ def make[F[_]: Sync: Parallel: ThrowableMonadError](cfg: ServiceConfig, client: 
 
 ### Inline code
 
-`Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum `
+`Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum`
 
 ## List Types
 
